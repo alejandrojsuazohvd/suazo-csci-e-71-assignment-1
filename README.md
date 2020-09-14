@@ -9,6 +9,10 @@ The project was completed in Intellij Ultimate 2020.2. See license photo below:
 
 ![License Photo](https://imgur.com/HFKJFzj.jpg)
 
+Here is Intellij Running on my machine:
+
+![Intellij Running](https://i.imgur.com/OaLqfMD.jpg)
+
 The project was configured to have my name "Alejandro" as the command line argument. See the following photo for the run configuration:
 
 ![Run Configuration](https://i.imgur.com/NaX2BMV.jpg)
